@@ -14,12 +14,12 @@ In the example above we hard-coded the `True` and `False` values, but the common
 
 `arr = np.array([41, 42, 43, 44])`
 
-# Create an empty list
+`# Create an empty list`
 `filter_arr = []`
 
-# go through each element in arr
+`# go through each element in arr`
 `for element in arr:`
-  # if the element is higher than 42, set the value to True, otherwise False:
+  `# if the element is higher than 42, set the value to True, otherwise False:`
  ` if element > 42:`
    ` filter_arr.append(True)`
   `else:`
