@@ -28,5 +28,5 @@ In the example above we hard-coded the `True` and `False` values, but the common
 `newarr = arr[filter_arr]`
 
 `print(filter_arr)`
-print(newarr)
+`print(newarr)`
 
